@@ -1,6 +1,6 @@
 # Machine-Learning
 
-#### ML project that explores and compares the performance of various supervised learning algorithms, using different cross-validation and samping strategies, on regression tasks and classification tasks
+#### ML project that explores and compares the performance of various supervised learning algorithms, using different cross-validation and samping strategies, on regression task and classification task
 
 ### Regression Algorithm used
 Random Forest<br/>
