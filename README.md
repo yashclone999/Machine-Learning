@@ -21,7 +21,7 @@ Holdout Method with random sampling <br/>
 Stratified Holdout Method<br/>
 Stratified K-fold cross validation<br/>
 Bootstrapping<br/>
--------------------------------------------------------------
+
 ## ML Project 2
 #### Exploratory project to understand SVM classifier's performance (using different kernels), on IRIS dataset and MNIST dataset
 
