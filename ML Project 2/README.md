@@ -10,6 +10,7 @@ sigmoidal kernel <br />
 IRIS flower dataset - https://www.kaggle.com/uciml/iris. <br />
 MNIST dataset - https://www.kaggle.com/c/digit-recognizer <br />
 
+Found the following :<br />
 b) number of updates required before the SVM classifier converges <br />
 c) weights learnt, the margin and performance of the linear classifier <br />
 d) Performance of polynomial kernel with degree 4, 5 and 8 <br />
